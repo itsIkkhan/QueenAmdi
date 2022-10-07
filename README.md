@@ -15,7 +15,7 @@
 
 ![size](https://img.shields.io/github/repo-size/BlackAmda/QueenAmdi?color=purple&label=Repo%20Size&style=plastic)
 ![license](https://img.shields.io/github/license/BlackAmda/QueenAmdi?color=purple&label=License&style=plastic)
-![developer](https://img.shields.io/static/v1?label=Author&message=Black%20Amda&color=purple&style=plastic)
+![developer](https://img.shields.io/static/v1?label=Author&message=itsikkhan&color=purple&style=plastic)
 
 ### Queen Amdi 4.0v [Multi-Device] update coming soon...
 
